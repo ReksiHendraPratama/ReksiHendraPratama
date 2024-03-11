@@ -20,7 +20,7 @@ My hobbies are watching anime, reading novels, playing games like Stardew Valley
 
 - 📫 How to reach me **reksihendrapratama@gmail.com**
 
-- ⚡ Fun fact **I like watching anime, read lightvoel and comic**
+- ⚡ Fun fact **I like watching anime, read lightnovel and comic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
