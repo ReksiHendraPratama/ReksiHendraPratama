@@ -10,6 +10,7 @@ My hobbies are watching anime, reading novels, playing games like Stardew Valley
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reksihendrapratama&label=Profile%20views&color=0e75b6&style=flat" alt="reksihendrapratama" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reksihendrapratama" alt="reksihendrapratama" /></a> </p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning **React.js, JavaScript, MySQL Workbench**
 
