@@ -3,7 +3,7 @@
 ## I am a Student
 Hello, My name is Reksi Hendra Pratama. I am now studying Informatics of 2022 at Bengkulu University and enrolled in class B. I am a technology enthusiast, I am interested in website development, software development, machine learning and artificial intelligence.
 
-I am now in my 4th semester and target to graduate in 2026. I want to work in Jakarta or abroad such as the United States
+I am now in my 7th semester and target to graduate in 2026. I want to work in Jakarta or abroad such as the United States
 
 My hobbies are watching anime, reading novels, playing games like Stardew Valley, MotoGP, Romance of Three Kingdoms and PES
 
